@@ -1,0 +1,21 @@
+[
+    {
+      "Name": "Module 03A: Implement CI with Azure Pipelines and GitHub Actions",
+      "Language": "English",
+      "BaseURL": "https://github.com/CloudLabs-MOC/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/tree/stage",
+      "Files": [
+        {
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/stage/Instructions/Labs/LabIntro.md",
+          "Order": 1
+        },
+        {
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/stage/Instructions/Labs/AZ400_M03_L03_Configuring_Agent_Pools_and_Understanding_Pipeline_Styles.md",
+          "Order": 2
+        },
+        {
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/stage/Instructions/Labs/AZ400_M03_L04_Enabling_Continuous_Integration_with_Azure_Pipelines.md",
+          "Order": 3
+        }
+      ]
+    }
+  ]

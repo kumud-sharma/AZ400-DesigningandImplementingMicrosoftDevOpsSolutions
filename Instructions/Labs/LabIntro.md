@@ -2,28 +2,49 @@
 
 ### Getting Started with Lab
 
-1. Once the environment is provisioned, a virtual machine (JumpVM) on the left and lab guide on the right will get loaded in your browser. Use this virtual machine throughout the workshop to perform the lab.
+1. Once the environment is provisioned, a virtual machine and lab guide will get loaded into your browser. Use this virtual machine throughout the workshop to perform the lab.
 
-1. To get the lab environment details, you can select the **Lab Environment** tab, you can locate the **Lab Environment** tab on the upper right corner. Additionally, the credentials will also be emailed to your email address provided during registration.
+1. To get the lab environment details, you can select the **Environment Details** tab.
 
- > You will see Suffix/DeploymentID value on the **Lab Environment** tab, please use it wherever you see SUFFIX or DeploymentID in lab steps. This is a unique number associated with each lab deployment. 
+    ![Architecture Diagram](images/az-400-intro01.png)
 
-### Task 1: Log in to Azure Portal
+1. You can also open the Lab Guide on a separate full window by selecting the **Split Window** button from the bottom right corner.
 
-1. In the JumpVM, double click on the Azure portal shortcut on the desktop.
+    ![Architecture Diagram](images/az-400-intro(2).png)  
+
+1. Also, you can **start, stop and restart** the virtual machines from the **Resources** tab.
+
+    ![Architecture Diagram](images/az-400-intro(3).png)
+
+### Log in to Azure Portal and verify the pre-deployed resources.
+
+1. In the virtual machine (VM) on the left, click on the Azure Portal as shown below.
+
+    ![](images/az-400-intro4.png)
+    
+1. On the **Sign into Microsoft Azure** tab, you will see the login screen. Enter the following **Email/Username** and then click on **Next**. 
    
-    > **Note:** In the welcome to Microsoft Edge page, select **Start without your data** and on the help for importing Google browsing data page select the **Continue without this data** button and procced to select **Confirm and start browsing** in the next page.
-
-1. On **Sign in to Microsoft Azure** blade, you will see a login screen, in that enter the following email/username and then click on **Next**. 
    * Email/Username: <inject key="AzureAdUserEmail"></inject>
 
-1. Now enter the following password and click on **Sign in**.
-   * Password: <inject key="AzureAdUserPassword"></inject>
+   ![](images/dp-500-intro-4.png)
+
+1. Enter the following **Password** and click on **Sign in**. 
    
-1. In the pop-up for **Help us protect your account**, select Skip for now (14 days until this is required).
+   * Password: <inject key="AzureAdUserPassword"></inject>
 
-1. If you see the pop-up **Stay Signed in?**, click Yes
+    ![](images/dp-500-intro-5.png)
+    
+1. First-time users are often prompted to Stay Signed In, if you see any such pop-up, click on No.
+   
+1. If a **Welcome to Microsoft Azure** popup window appears, click Maybe Later to skip the tour.
 
-1. If you see the pop-up **You have free Azure Advisor recommendations!**, close the window to continue the lab.
+1. From the home page select **Resource groups** from the Navigate section.
 
-1. If a **Welcome to Microsoft Azure** popup window appears, click **Maybe Later** to skip the tour.
+    ![](images/dp-500-intro-6.png)
+    
+1. Review the resource groups available from the list, which you will be using in next sections.
+
+1. Click on **Next** from the bottom right and follow the instructions to perform the lab.
+
+    ![](images/az-400-intro5.png)
+    

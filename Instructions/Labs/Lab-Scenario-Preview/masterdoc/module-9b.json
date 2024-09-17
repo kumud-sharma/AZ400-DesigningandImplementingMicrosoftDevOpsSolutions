@@ -1,0 +1,13 @@
+[
+    {
+      "Name": "Lab Scenario Preview: AZ-400: Implement continuous feedback - Part B",
+      "Language": "English",
+      "BaseURL": "https://github.com/CloudLabs-MOC/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/tree/stage",
+      "Files": [
+        {
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/prod/Instructions/Labs/Lab-Scenario-Preview/module-9b.md",
+          "Order": 1
+        }
+      ]
+    }
+  ]
